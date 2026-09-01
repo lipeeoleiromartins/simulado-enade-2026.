@@ -16,4 +16,3 @@ Registro de desempenho no Simulado ENADE do curso de **Tecnólogo em Análise e 
 
 ---
 
-![Resultado do Simulado](./resultado-simulado.png)
